@@ -48,25 +48,27 @@ Ride.create(name: 'Splash Mountain', img: 'https://cdn1.parksmedia.wdprapps.disn
 
 Ride.create(name: 'Tom Sawyer Island', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/tom-sawyer-island/tom-sawyer-island-00.jpg?1568276204840', description: 'Travel by log raft to this secret rustic hideaway inspired by the stories of Mark Twain.', land: 'Frontierland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'The Haunted Mansion', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/haunted-mansion/haunted-mansion-1280x720.mp4?1550821051252', description: 'Climb aboard a gloomy Doom Buggy for a grave journey through a labyrinth of haunted chambers.', land: 'Liberty Square');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'Liberty Square Riverboat', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/liberty-square-riverboat/liberty-square-riverboat-00.jpg?1583972660074', description: 'Cruise the scenic Rivers of America aboard an authentic steam-powered paddle wheeler.', land: 'Liberty Square');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'Astro Orbiter', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/astro-orbiter/cinemagraph/astro-orbiter-1280x720.mp4?1550820901413', description: 'Pilot a spaceship high in the sky amid a gleaming constellation of planets.', land: 'Tomorrowland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: "Buzz Lightyear's Space Ranger Spin", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/buzz-lightyears-space-ranger-spin/buzz-lightyear-space-ranger-spin-00.jpg?1559892286107', description: 'Fire your laser to earn points and defeat the Evil Emperor Zurg as you journey through a galactic space battle.', land: 'Tomorrowland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'Space Mountain', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/space-mountain/space-mountain-gallery02.jpg?1559892391044', description: 'Blast off on a rip-roaring rocket into the furthest reaches of outer space on this roller-coaster ride in the dark.', land: 'Tomorrowland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'Tomorrowland Speedway', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/tomorrowland-speedway/tomorrowland-speedway-gallery03.jpg?1559892525944', description: 'Put the pedal to the metal in your very own hotrod and cruise along a scenic miniature motorway.', land: 'Tomorrowland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: "Walt Disney's Carousel of Progress", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/walt-disneys-carousel-of-progress/walt-disney-carousel-of-progress-00.jpg?1583972645047', description: 'Travel through the 20th century and marvel at the evolution of technology during this classic Audio-Animatronics show.', land: 'Tomorrowland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'Mad Tea Party', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/mad-tea-party/mad-tea-party-00.jpg?1614022628348', description: 'Spin ‘round and ‘round in a giant teacup during a madcap music-filled whirlwind.', land: 'Fantasyland');
 
-Ride.create(name: '', img: '', description: '', land: '');
+Ride.create(name: 'The Hall of Presidents', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-04.jpg?1611118822365', description: 'Behold all 44 Presidents of the United States in a stirring show tracing the nation’s history.', land: 'Liberty Square');
 
-Ride.create(name: 'The Haunted Mansion', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haunted_Mansion_Exterior.JPG/1200px-Haunted_Mansion_Exterior.JPG', description: 'Climb aboard a gloomy Doom Buggy for a grave journey through a labyrinth of haunted chambers.', land: 'Liberty Square');
+Ride.create(name: 'Tomorrowland Transit Authority PeopleMover', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/tomorrowland-transit-authority-peoplemover/tomorrowland-transit-authority-peoplemover-00.jpg?1559892496038', description: 'Embark on a 10-minute tour of Tomorrowland aboard this mass transit system of the future.', land: 'Tomorrowland');
+
+Ride.create(name: 'Monsters, Inc. Laugh Floor', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/monsters-inc-laugh-floor/monsters-inc-laugh-floor-gallery04.jpg?1581453837790', description: 'Participate in a hilarious, gag-tastic interactive comedy show—starring Monsters, Inc. and company!', land: 'Tomorrowland');
 
 # User Data #
 
