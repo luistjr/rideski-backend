@@ -74,11 +74,18 @@ Ride.create(name: 'Monsters, Inc. Laugh Floor', img: 'https://cdn1.parksmedia.wd
 
 User.create(first_name: 'Luis', last_name: 'Torres', email: 'luistjr@gmail.com', img: 'https://photos.zillowstatic.com/h_l/ISzn8eu7czn9pg0000000000.jpg', username: 'luistjr', password: 'hello');
 
+User.create(first_name: 'Ashley', last_name: 'Torres', email: 'ashtor@gmail.com', img: 'https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/72284769_10213486809119418_7900904739733241856_o.jpg?_nc_cat=110&ccb=3&_nc_sid=09cbfe&_nc_ohc=tK4xSmuJ694AX-Xmb6G&_nc_ht=scontent-dfw5-1.xx&oh=d8e58692671bf7b92c2a33010bf44ec4&oe=605B3550', username: 'ashtor', password: 'hello123');
+
 # Itinerary Data #
 
 Itinerary.create(date: 'March 6, 2021');
+Itinerary.create(date: 'May 23, 2021');
 
 UserItinerary.create(user_id: 1, itinerary_id: 1);
+UserItinerary.create(user_id: 2, itinerary_id: 2);
 
-RideItinerary.create(ride_id: 1, itinerary_id: 1, time: '5 PM');
+RideItinerary.create(ride_id: 1, itinerary_id: 1, time: '10 PM');
+RideItinerary.create(ride_id: 3, itinerary_id: 2, time: '8 PM');
+RideItinerary.create(ride_id: 5, itinerary_id: 1, time: '6 PM');
+RideItinerary.create(ride_id: 10, itinerary_id: 2, time: '1 PM');
 
