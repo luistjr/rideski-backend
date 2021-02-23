@@ -10,23 +10,23 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_23_155202) do
+ActiveRecord::Schema.define(version: 2021_02_23_164921) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "itineraries", force: :cascade do |t|
-    t.integer "date"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "date"
   end
 
   create_table "ride_itineraries", force: :cascade do |t|
     t.integer "ride_id"
     t.integer "itinerary_id"
-    t.integer "time"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "time"
   end
 
   create_table "rides", force: :cascade do |t|

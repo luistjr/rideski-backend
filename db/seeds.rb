@@ -6,13 +6,77 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+Ride.create(name: '', img: '', description: '', land: '');
+
+# Ride Data #
+
+Ride.create(name: 'Under the Sea ~ Journey of The Little Mermaid', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/under-the-sea-journey-of-the-little-mermaid/under-the-sea-journey-of-the-little-mermaid-new-00.jpg?1609435255249', description: 'Board a clamshell and become part of Ariel’s world on a musical adventure awash with scenes from the animated classic.', land: 'Fantasyland');
+
+Ride.create(name: 'Jungle Cruise', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/jungle-cruise/jungle-cruise-gallery04.jpg?1583770589146', description: 'Chart a course for high adventure on a scenic and comedic boat tour of exotic rivers across Asia, Africa and South America.', land: 'Adventureland');
+
+Ride.create(name: 'The Magic Carpets of Aladdin', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-magic-carpets-of-aladdin/magic-carpets-of-aladdin-00.jpg?1609435190580', description: 'Fly high over Adventureland on an enchanted carpet ride inspired by the Disney movie Aladdin.', land: 'Adventureland');
+
+Ride.create(name: 'Pirates of the Caribbean', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/pirates-of-the-caribbean/pirates-of-the-caribbean-00.jpg?1609435094221', description: 'Set sail on a swashbuckling voyage to a long-forgotten time and place when pirates and privateers ruled the seas.', land: 'Adventureland');
+
+Ride.create(name: 'Swiss Family Treehouse', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/swiss-family-treehouse/swiss-family-treehouse-00.jpg?1612376192277', description: 'Explore the ultimate treehouse—and behold breathtaking views—inspired by the classic Disney film, Swiss Family Robinson.', land: 'Adventureland');
+
+Ride.create(name: "Walt Disney's Enchanted Tiki Room", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/walt-disneys-enchanted-tiki-room/enchanted-tiki-room-00.jpg?1583972730959', description: 'Tropical birds, Tiki gods and colorful flowers come to life in a swinging South Seas musical extravaganza.', land: 'Adventureland');
+
+Ride.create(name: 'The Barnstormer', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/barnstormer-starring-the-great-goofini/barnstormer-starring-great-goofini-gallery06.jpg?1553266980772', description: 'Take flight above Storybook Circus with Goofy in a homemade stunt airplane for a thrilling junior roller coaster ride.', land: 'Fantasyland');
+
+Ride.create(name: 'Cinderella Castle', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disney-world/attractions/magic-kingdom/cinderella-castle/castle-arch-16x9.jpg?1611845187786', description: 'Inspired by the castle in the Disney film Cinderella, this enchanting edifice is the symbol of Magic Kingdom park.', land: 'Fantasyland');
+
+Ride.create(name: 'Dumbo the Flying Elephant', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/dumbo-the-flying-elephant/cinemagraph/dumbo-1280x720.mp4?1550820961328', description: 'Soar high in the sky—and see an elephant fly—on a whimsical flight aboard Dumbo.', land: 'Fantasyland');
+
+Ride.create(name: "'it's a small world'", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/its-a-small-world/its-a-small-world-00.jpg?1609434950761', description: 'Embark on a whimsical boat ride past a jubilant chorus of children from around the globe.', land: 'Fantasyland');
+
+Ride.create(name: 'The Many Adventures of Winnie the Pooh', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-many-adventures-of-winnie-the-pooh/many-adventures-of-winnie-the-pooh-00.jpg?1609435216212', description: 'Travel through Hundred-Acre Wood in an oversized Hunny Pot and get lost in the pages of A.A. Milne’s classic tales.', land: 'Fantasyland');
+
+Ride.create(name: "Mickey's PhilharMagic", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/mickeys-philharmagic/mickeys-philharmagic-gallery01.jpg?1551208516468', description: 'Disney magic meets Disney music in this spectacular 12-minute, 3D fantasy adventure starring Donald Duck.', land: 'Fantasyland');
+
+Ride.create(name: "Peter Pan's Flight", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/peter-pans-flight/peter-pan-flight-00.jpg?1609435066297', description: 'Embark on a high-flying adventure over iconic scenes made famous in Disney’s animated film.', land: 'Fantasyland');
+
+Ride.create(name: 'Prince Charming Regal Carrousel', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/prince-charming-regal-carrousel/prince-charming-regal-carrousel-gallery00.jpg?1551208126701', description: 'Ride atop a regal steed and gallop through a whirling backdrop of wondrous color and whimsical music.', land: 'Fantasyland');
+
+Ride.create(name: 'Seven Dwarfs Mine Train', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/seven-dwarfs-mine-train/cinemagraph/seven-dwarfs-1280x720.mp4?1550821111145', description: 'Race through the diamond mine from Snow White and the Seven Dwarfs on a swaying family coaster ride.', land: 'Fantasyland');
+
+Ride.create(name: 'Big Thunder Mountain Railroad', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-web-1280x720.mp4?1550820946469', description: 'Race through a haunted gold mine aboard a speeding train on this thrilling coaster-style ride.', land: 'Frontierland');
+
+Ride.create(name: 'Country Bear Jamboree', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/country-bear-jamboree/country-bear-jamboree-gallery00.jpg?1551208381642', description: 'Have a knee-slappin’ good time at this jolly country-and-western musical revue starring a cast of singing bears.', land: 'Frontierland');
+
+Ride.create(name: 'Splash Mountain', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/splash-mountain/splash-mountain-00.jpg?1560441946491', description: 'Drop into a whimsical world filled with classic characters and songs on this thrilling log-flume adventure.', land: 'Frontierland');
+
+Ride.create(name: 'Tom Sawyer Island', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/tom-sawyer-island/tom-sawyer-island-00.jpg?1568276204840', description: 'Travel by log raft to this secret rustic hideaway inspired by the stories of Mark Twain.', land: 'Frontierland');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
+Ride.create(name: '', img: '', description: '', land: '');
+
 Ride.create(name: 'The Haunted Mansion', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haunted_Mansion_Exterior.JPG/1200px-Haunted_Mansion_Exterior.JPG', description: 'Climb aboard a gloomy Doom Buggy for a grave journey through a labyrinth of haunted chambers.', land: 'Liberty Square');
+
+# User Data #
 
 User.create(first_name: 'Luis', last_name: 'Torres', email: 'luistjr@gmail.com', img: 'https://photos.zillowstatic.com/h_l/ISzn8eu7czn9pg0000000000.jpg', username: 'luistjr', password: 'hello');
 
-Itinerary.create(date: 5/10/21);
+# Itinerary Data #
+
+Itinerary.create(date: 'March 6, 2021');
 
 UserItinerary.create(user_id: 1, itinerary_id: 1);
 
-RideItinerary.create(ride_id: 1, itinerary_id: 1, time: 10);
+RideItinerary.create(ride_id: 1, itinerary_id: 1, time: '5 PM');
 
