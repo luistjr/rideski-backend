@@ -6,8 +6,6 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Ride.create(name: '', img: '', description: '', land: '');
-
 # Ride Data #
 
 Ride.create(name: 'Under the Sea ~ Journey of The Little Mermaid', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/under-the-sea-journey-of-the-little-mermaid/under-the-sea-journey-of-the-little-mermaid-new-00.jpg?1609435255249', description: 'Board a clamshell and become part of Ariel’s world on a musical adventure awash with scenes from the animated classic.', land: 'Fantasyland');
