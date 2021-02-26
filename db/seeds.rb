@@ -24,7 +24,7 @@ Ride.create(name: 'The Barnstormer', img: 'https://cdn1.parksmedia.wdprapps.disn
 
 Ride.create(name: 'Cinderella Castle', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disney-world/attractions/magic-kingdom/cinderella-castle/castle-arch-16x9.jpg?1611845187786', description: 'Inspired by the castle in the Disney film Cinderella, this enchanting edifice is the symbol of Magic Kingdom park.', land: 'Fantasyland');
 
-Ride.create(name: 'Dumbo the Flying Elephant', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/dumbo-the-flying-elephant/cinemagraph/dumbo-1280x720.mp4?1550820961328', description: 'Soar high in the sky—and see an elephant fly—on a whimsical flight aboard Dumbo.', land: 'Fantasyland');
+Ride.create(name: 'Dumbo the Flying Elephant', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/dumbo-the-flying-elephant/dumbo-the-flying-elephant-gallery03.jpg?1550820961332', description: 'Soar high in the sky—and see an elephant fly—on a whimsical flight aboard Dumbo.', land: 'Fantasyland');
 
 Ride.create(name: "'it's a small world'", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/its-a-small-world/its-a-small-world-00.jpg?1609434950761', description: 'Embark on a whimsical boat ride past a jubilant chorus of children from around the globe.', land: 'Fantasyland');
 
@@ -36,9 +36,9 @@ Ride.create(name: "Peter Pan's Flight", img: 'https://cdn1.parksmedia.wdprapps.d
 
 Ride.create(name: 'Prince Charming Regal Carrousel', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/prince-charming-regal-carrousel/prince-charming-regal-carrousel-gallery00.jpg?1551208126701', description: 'Ride atop a regal steed and gallop through a whirling backdrop of wondrous color and whimsical music.', land: 'Fantasyland');
 
-Ride.create(name: 'Seven Dwarfs Mine Train', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/seven-dwarfs-mine-train/cinemagraph/seven-dwarfs-1280x720.mp4?1550821111145', description: 'Race through the diamond mine from Snow White and the Seven Dwarfs on a swaying family coaster ride.', land: 'Fantasyland');
+Ride.create(name: 'Seven Dwarfs Mine Train', img: 'https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2020/07/hjt76uyrt7.jpg', description: 'Race through the diamond mine from Snow White and the Seven Dwarfs on a swaying family coaster ride.', land: 'Fantasyland');
 
-Ride.create(name: 'Big Thunder Mountain Railroad', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-web-1280x720.mp4?1550820946469', description: 'Race through a haunted gold mine aboard a speeding train on this thrilling coaster-style ride.', land: 'Frontierland');
+Ride.create(name: 'Big Thunder Mountain Railroad', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-mountain-railroad-gallery02.jpg?1550820946477', description: 'Race through a haunted gold mine aboard a speeding train on this thrilling coaster-style ride.', land: 'Frontierland');
 
 Ride.create(name: 'Country Bear Jamboree', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/country-bear-jamboree/country-bear-jamboree-gallery00.jpg?1551208381642', description: 'Have a knee-slappin’ good time at this jolly country-and-western musical revue starring a cast of singing bears.', land: 'Frontierland');
 
@@ -46,11 +46,11 @@ Ride.create(name: 'Splash Mountain', img: 'https://cdn1.parksmedia.wdprapps.disn
 
 Ride.create(name: 'Tom Sawyer Island', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/tom-sawyer-island/tom-sawyer-island-00.jpg?1568276204840', description: 'Travel by log raft to this secret rustic hideaway inspired by the stories of Mark Twain.', land: 'Frontierland');
 
-Ride.create(name: 'The Haunted Mansion', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/haunted-mansion/haunted-mansion-1280x720.mp4?1550821051252', description: 'Climb aboard a gloomy Doom Buggy for a grave journey through a labyrinth of haunted chambers.', land: 'Liberty Square');
+Ride.create(name: 'The Haunted Mansion', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disney-world/attractions/magic-kingdom/haunted-mansion/haunted-mansion-gallery15-16x9.jpg?1550821051260', description: 'Climb aboard a gloomy Doom Buggy for a grave journey through a labyrinth of haunted chambers.', land: 'Liberty Square');
 
 Ride.create(name: 'Liberty Square Riverboat', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/liberty-square-riverboat/liberty-square-riverboat-00.jpg?1583972660074', description: 'Cruise the scenic Rivers of America aboard an authentic steam-powered paddle wheeler.', land: 'Liberty Square');
 
-Ride.create(name: 'Astro Orbiter', img: 'https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-world/attractions/magic-kingdom/astro-orbiter/cinemagraph/astro-orbiter-1280x720.mp4?1550820901413', description: 'Pilot a spaceship high in the sky amid a gleaming constellation of planets.', land: 'Tomorrowland');
+Ride.create(name: 'Astro Orbiter', img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/attractions/magic-kingdom/astro-orbiter/astro-orbiter-gallery01.jpg?1550820901415', description: 'Pilot a spaceship high in the sky amid a gleaming constellation of planets.', land: 'Tomorrowland');
 
 Ride.create(name: "Buzz Lightyear's Space Ranger Spin", img: 'https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/buzz-lightyears-space-ranger-spin/buzz-lightyear-space-ranger-spin-00.jpg?1559892286107', description: 'Fire your laser to earn points and defeat the Evil Emperor Zurg as you journey through a galactic space battle.', land: 'Tomorrowland');
 
