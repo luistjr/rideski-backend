@@ -1,4 +1,4 @@
 class ItinerarySerializer < ActiveModel::Serializer
-  has_many :users, through: :user_itineraries
+  has_many :rides
   attributes :id, :date
 end

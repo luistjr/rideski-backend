@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+
+  post "login", to: "users#login"
+
   resources :itineraries
   resources :rides
   resources :ride_itineraries

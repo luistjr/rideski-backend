@@ -3,4 +3,9 @@ class ItinerariesController < ApplicationController
         itineraries = Itinerary.all
         render json: itineraries
     end
+
+    def show
+        itinerary = Itinerary.find(params[:id])
+        render json: itinerary
+    end 
 end
