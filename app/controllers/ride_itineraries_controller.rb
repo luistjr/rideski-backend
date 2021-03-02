@@ -8,4 +8,11 @@ class RideItinerariesController < ApplicationController
         rideitinerary = RideItinerary.find(params[:id])
         render json: rideitinerary
     end 
+
+    def destroy
+        rideitinerary = RideItinerary.find(params[:id])
+        rideitinerary.destroy
+
+        render json: rideitinerary
+    end 
 end
