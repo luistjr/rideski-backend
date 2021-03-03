@@ -15,4 +15,17 @@ class RideItinerariesController < ApplicationController
 
         render json: rideitinerary
     end 
+
+    def create
+        rideitinerary = RideItinerary.create(rideitinerary_params)
+        render json: rideitinerary 
+    end
+
+    private
+
+    def rideitinerary_params
+        params.permit(:ride_id, :itinerary_id, :time, :rideitinerary)
+    end
+
+    # .require keeps resulting in an error 400
 end
