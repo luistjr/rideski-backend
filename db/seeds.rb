@@ -76,8 +76,8 @@ User.create(first_name: 'Ashley', last_name: 'Torres', email: 'ashtor@gmail.com'
 
 # Itinerary Data #
 
-Itinerary.create(date: 'March 6, 2021');
-Itinerary.create(date: 'May 23, 2021');
+Itinerary.create(date: '3/6/2021');
+Itinerary.create(date: '5/23/2021');
 
 UserItinerary.create(user_id: 1, itinerary_id: 1);
 UserItinerary.create(user_id: 2, itinerary_id: 2);
