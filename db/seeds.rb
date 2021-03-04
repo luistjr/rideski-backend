@@ -87,9 +87,9 @@ RideItinerary.create(ride_id: 3, itinerary_id: 2, time: '8 PM');
 RideItinerary.create(ride_id: 5, itinerary_id: 1, time: '6 PM');
 RideItinerary.create(ride_id: 10, itinerary_id: 2, time: '1 PM');
 
-RideItinerary.create(ride_id: 3, itinerary_id: 1, time: '1 PM');
-RideItinerary.create(ride_id: 8, itinerary_id: 1, time: '2 PM');
-RideItinerary.create(ride_id: 11, itinerary_id: 1, time: '3 PM');
-RideItinerary.create(ride_id: 13, itinerary_id: 1, time: '4 PM');
-RideItinerary.create(ride_id: 10, itinerary_id: 1, time: '5 PM');
+# RideItinerary.create(ride_id: 6, itinerary_id: 1, time: '1 PM');
+# RideItinerary.create(ride_id: 8, itinerary_id: 1, time: '2 PM');
+# RideItinerary.create(ride_id: 11, itinerary_id: 1, time: '3 PM');
+# RideItinerary.create(ride_id: 13, itinerary_id: 1, time: '4 PM');
+# RideItinerary.create(ride_id: 9, itinerary_id: 1, time: '5 PM');
 
