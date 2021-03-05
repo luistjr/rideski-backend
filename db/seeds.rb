@@ -82,10 +82,10 @@ Itinerary.create(date: '5/23/2021');
 UserItinerary.create(user_id: 1, itinerary_id: 1);
 UserItinerary.create(user_id: 2, itinerary_id: 2);
 
-RideItinerary.create(ride_id: 1, itinerary_id: 1, time: '10 PM');
-RideItinerary.create(ride_id: 3, itinerary_id: 2, time: '8 PM');
-RideItinerary.create(ride_id: 5, itinerary_id: 1, time: '6 PM');
-RideItinerary.create(ride_id: 10, itinerary_id: 2, time: '1 PM');
+RideItinerary.create(ride_id: 1, itinerary_id: 1, time: '01:00');
+RideItinerary.create(ride_id: 3, itinerary_id: 2, time: '02:00');
+RideItinerary.create(ride_id: 5, itinerary_id: 1, time: '14:00');
+RideItinerary.create(ride_id: 10, itinerary_id: 2, time: '16:00');
 
 # RideItinerary.create(ride_id: 6, itinerary_id: 1, time: '1 PM');
 # RideItinerary.create(ride_id: 8, itinerary_id: 1, time: '2 PM');
