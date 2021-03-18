@@ -21,6 +21,12 @@ class RideItinerariesController < ApplicationController
         render json: rideitinerary 
     end
 
+    def update
+        rideitinerary = RideItinerary.find(params[:id])
+        rideitinerary.update(rideitinerary_params)
+        render json: rideitinerary
+    end 
+
     private
 
     def rideitinerary_params

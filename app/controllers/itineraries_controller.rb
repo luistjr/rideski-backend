@@ -14,6 +14,13 @@ class ItinerariesController < ApplicationController
         render json: itinerary 
     end
 
+    def destroy
+        itinerary = Itinerary.find(params[:id])
+        itinerary.destroy 
+
+        render json: itinerary
+    end 
+
     private
 
     def itinerary_params

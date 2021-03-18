@@ -76,13 +76,13 @@ User.create(first_name: 'Ashley', last_name: 'Torres', email: 'ashtor@gmail.com'
 
 # Itinerary Data #
 
-Itinerary.create(date: '3/6/2021');
+Itinerary.create(date: '5/6/2021');
 Itinerary.create(date: '5/23/2021');
 
 UserItinerary.create(user_id: 1, itinerary_id: 1);
 UserItinerary.create(user_id: 2, itinerary_id: 2);
 
-RideItinerary.create(ride_id: 1, itinerary_id: 1, time: '01:00');
+RideItinerary.create(ride_id: 7, itinerary_id: 1, time: '01:00');
 RideItinerary.create(ride_id: 3, itinerary_id: 2, time: '02:00');
 RideItinerary.create(ride_id: 5, itinerary_id: 1, time: '14:00');
 RideItinerary.create(ride_id: 10, itinerary_id: 2, time: '16:00');
